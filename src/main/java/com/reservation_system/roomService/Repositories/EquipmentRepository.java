@@ -1,4 +1,4 @@
-package com.reservation_system.roomService.Repositories;
+package com.reservation_system.roomService.repositories;
 
 import com.reservation_system.roomService.Entities.Equipment;
 import org.springframework.data.jpa.repository.JpaRepository;
